@@ -20,6 +20,7 @@ We produce a digital edition of the Deipnosophists based on the Greek text recon
 ## Citation
 
 Kaibel: Book, Paragraph.
+
 Causabon: Book, Page, Paragraph.
 
 ## Desiderata

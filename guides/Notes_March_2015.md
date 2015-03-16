@@ -4,8 +4,8 @@
 
 ## What do we mark up?
 
-- Editiorial `<add>`
-- Editorial `<del>`
+- Editiorial `<add>` (represented by Kaibel with angle brackets)
+- Editorial `<del>` (represented by Kaibel with square brackets)
 - Various kinds of quotations
 - We need to grab quotations as CITE objects
 - Internal cross references

@@ -19,7 +19,7 @@ We produce a digital edition of the Deipnosophists based on the Greek text recon
 
 ## Citation
 
-Kaibel: Book, Section.
+Kaibel: Book, Paragraph.
 
 Causabon's page + paragraph.
 
@@ -27,7 +27,7 @@ Causabon's page + paragraph.
 
 Kaibel's Edition, PDF in Github.
 
-Apparatus Critici (treat as commentary)
+Apparatus Criticus (treat as commentary)
 
 Marginal notes from various editions (treat as commentary)
 

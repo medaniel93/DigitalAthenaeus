@@ -14,7 +14,7 @@ We produce a digital edition of the Deipnosophists based on the Greek text recon
 
 ## For marking up text-reuse
 
-- Marking up quotations identified by Kaibel (and represented with quotation marks or special layout - indented) - we use a `<quote>` tag with an attribute referring to the source text)
+- Marking up quotations identified by Kaibel (and represented with quotation marks or special layout - indented) - we use a `<quote>` tag with an attribute referring to the source text
 - Identify whole passages of text-reuse in the XML of Kaibel. 
 - Attaching a citation of some kind to that. 
 

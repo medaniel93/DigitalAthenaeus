@@ -1,6 +1,7 @@
 # Notes on Athenaeus 2015
 
 ## Which Text?
+We produce a digital edition of the Deipnosphists based on the Greek text reconstructed by Kaibel)
 [tlg0008.tlg001.perseus-grc3.xml](https://github.com/PerseusDL/canonical/blob/master/CTS_XML_TEI/perseus/greekLit/tlg0008/tlg001/tlg0008.tlg001.perseus-grc3.xml)
 
 ## What do we mark up?

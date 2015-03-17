@@ -5,6 +5,7 @@
 ### CITE Namespace
 
 `urn:cite:digAth:`
+`urn:cite:digAth:reuse`
 
 ### The New Edition of Athenaeus
 
@@ -23,6 +24,8 @@
 - `<persName n="urn:cite:digAth:pers.pers1">Ἀθήναιος</persName>` [see [the GitHub personal-names authority list](https://github.com/OpenGreekAndLatin/DigitalAthenaeus/blob/master/authLists/digAth-names.csv) ]
 - `<title n="urn:cite:digAth:works.N">Φερεκράτης</title>` [see [the GitHub works-names authority list](https://github.com/OpenGreekAndLatin/DigitalAthenaeus/blob/master/authLists/digAth-works.csv) ]
 - Page-breaks in the XML (`<pb …/`). *Stet*.
+- Literal quotation marks (`‘[^’]+?’`). Let's try to replace the easy ones with `<q>…</q>`. There may be one, two, or a few hundred hard cases.
+- We always delete the `rend="…"` attribute.
 
 # Workflow Notes
 

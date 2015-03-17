@@ -10,6 +10,7 @@ We produce a digital edition of the Deipnosophists based on the Greek text recon
 - Editorial `<del>` (represented by Kaibel with square brackets)
 - Various kinds of quotations
 - We need to grab quotations as CITE objects
+- External references
 - Internal cross references
 
 ## For marking up text-reuse

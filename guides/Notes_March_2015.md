@@ -16,6 +16,22 @@
 - `urn:cite:digAth:pers` (named persons, whether dramatic, literary, or historical: Eupolis, Timocrates, or Pericles, e.g.)
 - `urn:cite:digAth:works` (identified non-extant works; extant works get CTS-URNs, of course )
 
+## Three Things
+
+1. Names of fragmentary authors
+1. Titles of fragmentary works
+
+1. Actual quotation
+	1. Quotations of extant authors and works
+	1. Quotations of lost authors and works
+1. Paraphrases 
+	1. Author/work identification
+	1. Annotating the paraphrase: different interpretations, possibly
+
+
+## Things to test
+
+Sequence of analysis
 
 ## What do we mark up?
 

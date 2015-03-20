@@ -36,7 +36,7 @@ Sequence of analysis
 ## What do we mark up?
 
 - Editorial `<add>`. Replace `< … >` (`&lt; … &gt;`) with `<add> … </add>`
-- Editorial `<del>`. Replace `[ … ]` with `<del resp="…"> … </del>` 
+- Editorial `<del>`. Replace `[ … ]` with `<del> … </del>` 
 - `<persName n="urn:cite:digAth:pers.pers1">Ἀθήναιος</persName>` [see [the GitHub personal-names authority list](https://github.com/OpenGreekAndLatin/DigitalAthenaeus/blob/master/authLists/digAth-names.csv) ]
 - `<title n="urn:cite:digAth:works.N">Φερεκράτης</title>` [see [the GitHub works-names authority list](https://github.com/OpenGreekAndLatin/DigitalAthenaeus/blob/master/authLists/digAth-works.csv) ]
 - Page-breaks in the XML (`<pb …/`). *Stet*.
@@ -53,7 +53,7 @@ Sequence of analysis
 
 ## Examples
 
-> <persName n="urn:cite:digAth:pers.pers1">Ἀθήναιος</persName> μὲν ὁ τῆς βίβλου πατήρ· ποιεῖται δὲ τὸν λόγον πρὸς <persName n="urn:cite:digAth:pers.pers2">Τιμοκράτην</persName>· Δειπνοσοφιστὴς δὲ ταύτῃ τὸ ὄνομα.
+> <persName n="urn:cite:digAth:pers.pers1">Ἀθήναιος</persName> μὲν ὁ τῆς βίβλου πατήρ· ποιεῖται δὲ τὸν λόγον πρὸς <persName n="urn:cite:digAth:pers.pers2">Τιμοκράτην</persName>· Δειπνοσοφιστὴς δὲ ταύτῃ τὸ ὄνομα.
 
 > Ἄλεξις μὲν οὖν αὐτὸν ἐν <title n="urn:cite:digAth:works.workX">Δορκίδι</title> ἢ <title n="urn:cite:digAth:works.workX">Ποππυζούσῃ</title> φίλιχθυν
 

@@ -1,5 +1,5 @@
 EntityUrn,CtsUrn,Text
-"urn:cite:digAth:pers.pers1","urn:cts:greekLit:tlg0008.tlg001.berti:1.1@Ἀθήναιος[1]-1.1@πατήρ[1]","Ἀθήναιος μὲν ὁ τῆς βίβλου πατήρ"
+"urn:cite:digAth:pers.pers1","urn:cts:greekLit:tlg0008.tlg001.berti:1.1@Ἀθήναιος[1]-1.1@πατήρ[1]","Ἀθήναιος ὁ τῆς βίβλου πατήρ"
 "urn:cite:digAth:pers.pers2","urn:cts:greekLit:tlg0008.tlg001.berti:1.1@Τιμοκράτην[1]","Τιμοκράτην"
 "urn:cts:greekLit:tlg0008.tlg001:","urn:cts:greekLit:tlg0008.tlg001.berti:1.1@Δειπνοσοφιστὴς[1]","Δειπνοσοφιστὴς"
 "urn:cite:digAth:pers.pers3","urn:cts:greekLit:tlg0008.tlg001.berti:1.1@ΛαρήνσιοςῬωμαῖος[1]","Λαρήνσιος Ῥωμαῖος"
@@ -10,8 +10,8 @@ EntityUrn,CtsUrn,Text
 Λεωνίδης ὁ Ἠλεῖος
 Αἰμιλιανὸς ὁ Μαυρούσιος
 Ζωίλος
-Ποντιανὸς [Ποντιανὸς καὶ Δημόκριτος οἱ Νικομηδεῖς]
-Δημόκριτος
+"Ποντιανὸς καὶ Δημόκριτος οἱ Νικομηδεῖς"
+"Ποντιανὸς καὶ Δημόκριτος οἱ Νικομηδεῖς"
 Φιλάδελφός τε ὁ Πτολεμαεύς
 τῶν δὲ κυνικῶν εἷς ἦν ὃν Κύνουλκον καλεῖ
 Τηλεμάχῳ

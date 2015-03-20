@@ -1,0 +1,10 @@
+AnalysisURN,Analysis,CtsUrn,Text
+"urn:cite:digAth:genreAnalysis.1","urn:cite:digAth:genericAssignment.1","urn:cts:greekLit:tlg0008.tlg001.berti:1.7@ὅτι-1.7@φησί"," Ἀρχέστρατος ὁ Συρακούσιος ἢ Γελῷος ἐν τῇ ὡς Χρύσιππος ἐπιγράφει Γαστρονομίᾳ, ὡς δὲ Λυγκεὺς καὶ Καλλίμαχος Ἡδυπαθείᾳ, ὡς δὲ Κλέαρχος Δειπνολογίᾳ, ὡς δ᾽ ἄλλοι Ὀψοποιίᾳ, ἐπικὸν δὲ τὸ ποίημα"
+
+
+In our genericAssigment Collection, the data-objects look like this:
+
+URN: urn:cite:digAth:genericAssignment.1
+WorkUrn: [urn-to-work-mentioned-by-Athenaeus]
+Genre: [urn-to-genre]
+

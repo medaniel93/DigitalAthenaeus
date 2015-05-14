@@ -4,6 +4,7 @@
 
 1. Open the [Google Doc listing quotation](https://drive.google.com/folderview?id=0BzbUiC-X1utCNFJ4ckZDejAwMkU&usp=drive_web)
 1. Get the Kaibel and Gulick editions of the *Deipnosophistae*.
+1. Open the file `draft-ath.xml`.
 1. You will probably want to [open the Perseus text of the *Iliad*](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0133)
 1. Open the [Homer directory in the Github site](https://github.com/OpenGreekAndLatin/DigitalAthenaeus/tree/master/homer)
 	- Click to open the file `htr.csv`.
@@ -22,8 +23,10 @@
 1. Identify the Kaibel citation to Athenaeus.
 	- For example, there is a Homeric quotation at (Causabon) 9c.
 	- That corresponds to Kaible 1.16 (cf. p. 20 in Kaibel's printed edition).
-1. Identify the citation to Homer. **Check these! They may be wrong in the document**.
+1. Find that passage in the file `draft-ath.xml`. 
+1. Identify the citation to Homer. 
 	- The quotation from Athenaeus 1.16 is at *Iliad* 24.262.
+1. **Look carefully at the text of Athenaeus, the Homeric text, and all citations.**
 1. On the GitHub site, click to edit file `htr.csv`.
 1. Enter data (see below).
 1. When you are done, click "Commit Changes". 

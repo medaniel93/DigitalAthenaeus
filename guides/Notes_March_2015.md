@@ -1,4 +1,4 @@
-# Notes on Athenaeus 2015
+# Notes on Athenaeus. March, 2015.
 
 ## Vocabulary, Namespaces, IDs, &c.
 
@@ -31,7 +31,9 @@
 
 ## Things to test
 
-Sequence of analysis
+- Sequence of analysis. That is, testing that CTS-URNs, with subreferences, are in the proper sequence.
+- Ensuring proper indexing of CTS-URN subreferences.
+- Constrained catalog of Unicode Greek characters.
 
 ## What do we mark up?
 
@@ -48,14 +50,11 @@ Sequence of analysis
 - When there is a quotation of a surviving work (as in 1.2, the quotation from the *Odyssey*), check the citation and quotation!
 
 
-
-
-
 ## Examples
 
-> <persName n="urn:cite:digAth:pers.pers1">Ἀθήναιος</persName> μὲν ὁ τῆς βίβλου πατήρ· ποιεῖται δὲ τὸν λόγον πρὸς <persName n="urn:cite:digAth:pers.pers2">Τιμοκράτην</persName>· Δειπνοσοφιστὴς δὲ ταύτῃ τὸ ὄνομα.
+> `<persName n="urn:cite:digAth:pers.pers1">Ἀθήναιος</persName> μὲν ὁ τῆς βίβλου πατήρ· ποιεῖται δὲ τὸν λόγον πρὸς <persName n="urn:cite:digAth:pers.pers2">Τιμοκράτην</persName>· Δειπνοσοφιστὴς δὲ ταύτῃ τὸ ὄνομα.`
 
-> Ἄλεξις μὲν οὖν αὐτὸν ἐν <title n="urn:cite:digAth:works.workX">Δορκίδι</title> ἢ <title n="urn:cite:digAth:works.workX">Ποππυζούσῃ</title> φίλιχθυν
+> `Ἄλεξις μὲν οὖν αὐτὸν ἐν <title n="urn:cite:digAth:works.workX">Δορκίδι</title> ἢ <title n="urn:cite:digAth:works.workX">Ποππυζούσῃ</title> φίλιχθυν`
 
 ## Questions
 
@@ -92,11 +91,25 @@ Causabon's citation scheme: index or analysis.
 1. It exists to attach specific analyses to specific passages of the edition's text.
 
 
-
 # Controlled Vocabularies: CITE Collections
 
 - Named Entities
 - Names of lost works
 
 
+# Criteria for Analysis
 
+- Specifically named persons.
+- Groups representative of literary genres. E.g. "the poets after Archilochus", or, "the Athenian orators" (οἱ Ἀθήνησι ῥήτορες).
+- Not general ethnics. So "the Athenian Orators", but not "the Athenians" or "Athens".
+- Groups representing collective literary characters.
+- Groups representing holders of a particular political office, e.g. "the kings of Pergamum".
+
+## Problems, Questions and our (temporary) Decisions
+
+- 1.2 "Ποντιανὸς καὶ Δημόκριτος οἱ Νικομηδεῖς" These are clearly two named-entities. Do we want a third, "The Nicomedeans"? Answer: No. They are not equivalent to the "Sons of Atreus" in the Iliad; if in the text Athenaeus ever mentions "the Nicoemedeans", we can analyze that twice, as both Pontianus and Demokritos." If reading the text suggests otherwise, we can revisit this.
+
+## Tests
+
+- Constrained catalog of Unicode Greek characters.
+- Phrases regarding groups!

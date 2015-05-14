@@ -112,4 +112,5 @@ Causabon's citation scheme: index or analysis.
 ## Tests
 
 - Constrained catalog of Unicode Greek characters.
+- CTS URNs in general.
 - Phrases regarding groups!

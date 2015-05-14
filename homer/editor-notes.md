@@ -28,7 +28,7 @@ Three columns of data:
 | TextContent | `πλεῖαί τοι οἴνου κλισίαι` | 
 | Homer Urn | `urn:cts:greekLit:tlg0012.tlg001.ogl01:9.71` |
 
-### Editorial Principles
+## Editorial Principles
 
 - If the Homeric passage is lengthy and intact, just define the Athenaeus URN based on its limits.
 

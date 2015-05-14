@@ -2,7 +2,7 @@
 
 ## Set Up
 
-1. Open the [Google Doc listing quotation](https://drive.google.com/folderview?id=0BzbUiC-X1utCNFJ4ckZDejAwMkU&usp=drive_web)
+1. Open the [Google Doc listing quotations](https://drive.google.com/folderview?id=0BzbUiC-X1utCNFJ4ckZDejAwMkU&usp=drive_web)
 1. Get the Kaibel and Gulick editions of the *Deipnosophistae*.
 1. Open the file `draft-ath.xml`.
 1. You will probably want to [open the Perseus text of the *Iliad*](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0133)

@@ -3,7 +3,7 @@
 ## Links
 
 - [GitHub Site](https://github.com/OpenGreekAndLatin/DigitalAthenaeus)
-- [Google Doc listing Homeric Quotations](https://drive.google.com/open?id=0BzbUiC-X1utCNFJ4ckZDejAwMkU&authuser=0)
+- [Google Doc listing Iliadic Quotations](https://docs.google.com/spreadsheets/d/1rTRbkMAeymckZDqiJwF-hT1ZeVm-QmbHtjRxRJDjtTw/edit?usp=sharing)
 
 ## Tasks
 
@@ -30,7 +30,7 @@ Three columns of data:
 
 ## Editorial Principles
 
-- If the Homeric passage is lengthy and intact, just define the Athenaeus URN based on its limits.
+- If the Homeric passage is lengthy and intact (like a whole line of the *Iliad*), just define the Athenaeus URN based on its limits.
 
 	> "ἀρνῶν ἠδ᾽ ἐρίφων ἐπιδήμιοι ἁρπακτῆρες"
 

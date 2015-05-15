@@ -1,4 +1,4 @@
-AthenaeusUrn,TextContent,HomerUrn
+AthenaeusUrn,HomericTextContent,HomerUrn
 "urn:cts:greekLit:tlg0008.tlg001.berti:1.5@πλεῖαί[1]-1.5@κλισίαι[1]","πλεῖαί τοι οἴνου κλισίαι","urn:cts:greekLit:tlg0012.tlg001.ogl01:9.71"
 "urn:cts:greekLit:tlg0008.tlg001.berti:1.5@δαίνυ[1]-1.5@τοι[1]","δαίνυ δαῖτα γέρουσι ἔοικέ τοι","urn:cts:greekLit:tlg0012.tlg001.ogl01:9.70"
 "urn:cts:greekLit:tlg0008.tlg001.berti:1.5@δαῖτα[1]-1.5@θάλειαν[1]","δαῖτα θάλειαν","urn:cts:greekLit:tlg0012.tlg001.ogl01:7.475"
@@ -7,3 +7,4 @@ AthenaeusUrn,TextContent,HomerUrn
 "urn:cts:greekLit:tlg0008.tlg001.berti:1.16@ἀρνῶν[1]-1.16@ἁρπακτῆρες[1]","ἀρνῶν ἠδ᾽ ἐρίφων ἐπιδήμιοι ἁρπακτῆρες","urn:cts:greekLit:tlg0012.tlg001.ogl01:24.262"
 "urn:cts:greekLit:tlg0008.tlg001.berti:1.16@Ἑλλήσποντον[1]-1.16@προσαγορεύων[1]","Ἑλλήσποντον ἰχθυόεντα","urn:cts:greekLit:tlg0012.tlg001.ogl01:9.360"
 "urn:cts:greekLit:tlg0008.tlg001.berti:1.17@ὃς[1]-1.17@ἐδωδῆς[1]","ὃς δέ κ᾽ ἀνὴρ οἴνοιο κορεσσάμενος καὶ ἐδωδῆς","urn:cts:greekLit:tlg0012.tlg001.ogl01:19.167"
+"urn:cts:greekLit:tlg0008.tlg001.berti:1.16@αὐτὰρ[1]-1.16@ἕντο[1]","αὐτὰρ ἐπεὶ πόσιος καὶ ἐδητύος ἐξ ἔρον ἕντο","urn:cts:greekLit:tlg0012.tlg001.ogl01:1.469"

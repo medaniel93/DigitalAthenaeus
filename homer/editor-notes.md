@@ -44,3 +44,11 @@ Three columns of data:
 
 	> Text-content: "Ἑλλήσποντον ἰχθυόεντα"
 
+- Likewise, if the grammar and syntax of the "reused" text has changed because of context in Athenaeus---e.g. direct speech turned into indirect speech---if possible, the Athenaeus URN should identify the syntactic context of the paraphrase.
+
+	> "οὐκ ἂν γὰρ Ἀχιλλεὺς τὸ ζωρότερον κεραίρειν διέστειλε" (Ath. 1.17) ("Achilles would not have ordered [him] to mix the more pure [wine]…"
+
+	> Homer has Achilles order Patroclus: "ζωρότερον δὲ κέραιε," ("Mix the more pure [wine]!").
+
+
+

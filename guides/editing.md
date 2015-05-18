@@ -77,8 +77,6 @@ Causabon's page + paragraph.
 
 ## Desiderata
 
-Kaibel's Edition, PDF in Github.
-
 Apparatus Critici (treat as commentary)
 
 Marginal notes from various editions (treat as commentary)

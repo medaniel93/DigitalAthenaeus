@@ -35,5 +35,12 @@
 1. Push your changes:
 
 	$ git push
-	
+
+## If you forget the `-m` part of a `git commit`
+
+- You will be dropped into `nano`, a CLI text-editor.
+- Type your commit message.
+- Type `control-O` (control-key, letter 'O'), to "write out" (i.e. "save").
+- Hit return to confirm that you want to save that file.
+- Type `control-X` to quit.	
 	  

@@ -22,7 +22,7 @@
 
 1. Identify the Kaibel citation to Athenaeus.
 	- For example, there is a Homeric quotation at (Causabon) 9c.
-	- That corresponds to Kaible 1.16 (cf. p. 20 in Kaibel's printed edition).
+	- That corresponds to Kaibel 1.16 (cf. p. 20 in Kaibel's printed edition).
 1. Find that passage in the file `draft-ath.xml`. 
 1. Identify the citation to Homer. 
 	- The quotation from Athenaeus 1.16 is at *Iliad* 24.262.

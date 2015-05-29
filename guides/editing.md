@@ -77,7 +77,7 @@ Causabon's page + paragraph.
 
 ## Desiderata
 
-Dialogues of the sophists at the banquet ("dialogi personae")
+Dialogues of the sophists at the banquet ("dialogi personae") (marked up with `<sp>` and `@who`)
 
 Apparatus Critici (treat as commentary)
 

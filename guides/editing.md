@@ -77,6 +77,8 @@ Causabon's page + paragraph.
 
 ## Desiderata
 
+Dialogues of the sophists at the banquet ("dialogi personae")
+
 Apparatus Critici (treat as commentary)
 
 Marginal notes from various editions (treat as commentary)

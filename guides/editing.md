@@ -24,6 +24,7 @@
 1. Actual quotation
 	1. Quotations of extant authors and works
 	1. Quotations of lost authors and works
+
 1. Paraphrases 
 	1. Author/work identification
 	1. Annotating the paraphrase: different interpretations, possibly

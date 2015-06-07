@@ -29,7 +29,7 @@ A fun example will be names for specific books of the *Iliad*. Those can have mo
 
 ## File: `mentions.csv`
 
-A `.csv` file cataloging every mention of authors and works in Athenaeus, and Athenaeus' vocabulary for identifying authors and works. For example, Athenaeus may mention that a work by Istrus was known by two different names; this would generate three entries in this list: one mention of "Istrus", and two mentions of the same work.
+A `.csv` file cataloging every mention of authors and works in Athenaeus, and Athenaeus' vocabulary for identifying authors and works. For example, Athenaeus may mention that a work by Archestratos of Syracuse was known by four different names (i.e., Gastronomy, Life of Pleasure, Science of Dining, or Art of Cooking); this would generate five entries in this list: one mention of "Archestratus", and four mentions of the same work.
 
 ### Properties
 

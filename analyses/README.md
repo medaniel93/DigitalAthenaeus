@@ -9,7 +9,7 @@ A `.csv` list enumerating and identifying authors reused by Athenaeus.
 ### Properties
 
 - **EntityUrn** - a CITE URN uniquely identifying a re-used author.
-- **CtsUrn** - a CTS URN identifying a passage *in Athenaeus* where the is mentioned. This passage serves to justify the author's inclusion in the list; when an author is reused often, the passage here should be a clear, unambiguous reference. *E.g.* "Homer says…".
+- **CtsUrn** - a CTS URN identifying a passage *in Athenaeus* where the author is mentioned. This passage serves to justify the author's inclusion in the list; when an author is reused often, the passage here should be a clear, unambiguous reference. *E.g.* "Homer says…".
 - **Label** - a human-readable name for the author. *E.g.* "Plutarch of Chaeroneia"
 - **OptionalCtsGroupUrn** - for extant authors (Homer, Plutarch), a group-level CTS URN identifying the author. *E.g.* `urn:cts:greekLit:tlg0012:`.
 

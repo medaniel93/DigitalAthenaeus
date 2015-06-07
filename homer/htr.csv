@@ -15,8 +15,8 @@
 "urn:cts:greekLit:tlg0008.tlg001.berti:1.17@σὺ[1]-1.17@καθήμενος[1]","σὺ μέν πῖνε καθήμενος","urn:cts:greekLit:tlg0012.tlg001.ogl01:14.5"
 "urn:cts:greekLit:tlg0008.tlg001.berti:1.17@σὺ[1]-1.17@ἐπὶ[1]-1.17@ὄψον[1]","ἐπὶ δὲ κρόμυον ποτοῦ ὄψον","urn:cts:greekLit:tlg0012.tlg001.ogl01:11.630"
 "urn:cts:greekLit:tlg0008.tlg001.berti:1.17@οὐκ[1]-1.17@διέστειλε[1]","τὸ ζωρότερον κεραίρειν","urn:cts:greekLit:tlg0012.tlg001.ogl01:9.203"
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.18@ἀλλ[1]-1.18@πιθήσας[1]","ἀλλ᾽ ἐπεὶ ἀασάμην φρεσὶ λευγαλέῃσι πιθήσας","urn:cts:greekLit:tlg0012.tlg001.ogl01:9.119"
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.18@ἢ[1]-1.18@αὐτοί[1]","ἢ οἴνῳ μεθύων, ἤ μ᾽ ἔβλαψαν θεοὶ αὐτοί,","urn:cts:greekLit:tlg0012.tlg001.ogl01:9.119a"
+"urn:cts:greekLit:tlg0008.tlg001.berti:1.18@ἀλλ[1]-1.18@πιθήσας[1]","ἀλλ᾽ ἐπεὶ ἀασάμην φρεσὶ λευγαλέῃσι πιθήσας","urn:cts:greekLit:tlg0012.tlg001.ogl01:9.119","urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9.119"
+"urn:cts:greekLit:tlg0008.tlg001.berti:1.18@ἢ[1]-1.18@αὐτοί[1]","ἢ οἴνῳ μεθύων, ἤ μ᾽ ἔβλαψαν θεοὶ αὐτοί,","urn:cts:greekLit:tlg0012.tlg001.ogl01:9.119a",""
 "urn:cts:greekLit:tlg0008.tlg001.berti:1.18@ἱστορεῖ[1]-1.18@παραπολλύμενον[1]","Ἀχιλλέως","urn:cts:greekLit:tlg0012.tlg001.ogl01:20.75","urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:20.75@Ἀχιλλεὺς[1]"
 "urn:cts:greekLit:tlg0008.tlg001.berti:1.18@ἱστορεῖ[1]-1.18@παραπολλύμενον[1]","βουλεύεσθαι","urn:cts:greekLit:tlg0012.tlg001.ogl01:20.83","urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:20.83@βουληφόρε[1]"
 "urn:cts:greekLit:tlg0008.tlg001.berti:1.18@ἱστορεῖ[1]-1.18@παραπολλύμενον[1]","ὑπέσχετο οἰνοποτάζων","urn:cts:greekLit:tlg0012.tlg001.ogl01:20.84","urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:20.84@ὑπίσχεο[1]-20.84@οἰνοποτάζων[1]"
@@ -31,8 +31,18 @@
 "urn:cts:greekLit:tlg0008.tlg001.berti:1.21@αὐτοὺς[1]-1.21@δαῖτα[6]","αὐτοὺς δὲ ἑλώρια τεῦχε κύνεσσιν οἰωνοῖσί τε","urn:cts:greekLit:tlg0012.tlg001.ogl01:1.5"
 "urn:cts:greekLit:tlg0008.tlg001.berti:1.22@ἦ[2]-1.22@κυβιστᾷ[1]","ἦ μάλ᾽ ἐλαφρὸς ἀνήρ ὃς ῥεῖα κυβιστᾷ","urn:cts:greekLit:tlg0012.tlg001.ogl01:16.745"
 "urn:cts:greekLit:tlg0008.tlg001.berti:1.22@πολλοὺς[1]-1.22@διφῶντα[1]","πολλοὺς ἂν κορέσαι τήθεα διφῶντα","urn:cts:greekLit:tlg0012.tlg001.ogl01:16.747"
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.23@πᾶσιν[1]-1.23@δεπάεσσι[1]","πᾶσιν ἐπαρξάμενοι δεπάεσσι","urn:cts:greekLit:tlg0012.tlg001.ogl01:1.471"
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.23@καὶ[6]-1.23@Αἴας[1]", "κρέασι πλείοις δεπάεσσι", "urn:cts:greekLit:tlg0012.tlg001.ogl01:8.162"
+"urn:cts:greekLit:tlg0008.tlg001.berti:1.23@ἐπιστέφονται[1]-1.23@τιθέμενοι[1]","ἐπιστέφονται","urn:cts:greekLit:tlg0012.tlg001.ogl01:1.470","urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.470@ἐπεστέψαντο[1]"
+"urn:cts:greekLit:tlg0008.tlg001.berti:1.23@ἐπιστέφονται[1]-1.23@τιθέμενοι[1]","ποτοῖο",
+"urn:cts:greekLit:tlg0012.tlg001.ogl01:1.470","urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.470@ποτοῖο[1]"
+"urn:cts:greekLit:tlg0008.tlg001.berti:1.23@ἐπιστέφονται[1]-1.23@τιθέμενοι[1]","κρητῆρες",
+"urn:cts:greekLit:tlg0012.tlg001.ogl01:1.470","urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.470@κρητῆρας[1]"
+"urn:cts:greekLit:tlg0008.tlg001.berti:1.23@ἐπιστέφονται[1]-1.23@τιθέμενοι[1]","ἐπιστεφανοῦσθαι","urn:cts:greekLit:tlg0012.tlg001.ogl01:1.470","urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.470@ἐπεστέψαντο[1]"
+"urn:cts:greekLit:tlg0008.tlg001.berti:1.23@κοῦροι[1]-1.23@ἀνδράσιν[1]","κοῦροι",
+"urn:cts:greekLit:tlg0012.tlg001.ogl01:1.470","urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.470@κοῦροι"
+"urn:cts:greekLit:tlg0008.tlg001.berti:1.23@κοῦροι[1]-1.23@ἀνδράσιν[1]","πᾶσιν ἐπαρξάμενοι δεπάεσσι","urn:cts:greekLit:tlg0012.tlg001.ogl01:1.471","urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.471@πᾶσιν[1]-1.471@δεπάεσσι[1]"
+"urn:cts:greekLit:tlg0008.tlg001.berti:1.23@κοῦροι[1]-1.23@ἀνδράσιν[1]","πᾶσιν",
+"urn:cts:greekLit:tlg0012.tlg001.ogl01:1.471","urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.471@πᾶσιν[1]"
+"urn:cts:greekLit:tlg0008.tlg001.berti:1.23@καὶ[6]-1.23@Αἴας[1]","κρέασι πλείοις δεπάεσσι","urn:cts:greekLit:tlg0012.tlg001.ogl01:8.162"
 "urn:cts:greekLit:tlg0008.tlg001.berti:1.23@χρυσέοις[1]-1.23@ἀλλήλουσ[1]", "χρυσέοις δεπάεσσι δειδέχατ᾽ ἀλλήλουσ", "urn:cts:greekLit:tlg0012.tlg001.ogl01:4.3"
 "urn:cts:greekLit:tlg0008.tlg001.berti:1.23@χρυσέοις[1]-1.23@ἀλλήλουσ[1]", "χρυσέοις δεπάεσσι δειδέχατ᾽ ἀλλήλουσ", "urn:cts:greekLit:tlg0012.tlg001.ogl01:4.4"
 "urn:cts:greekLit:tlg0008.tlg001.berti:1.23@Ἀγαμέμνων[1]-1.23@τιμᾷ[1]", "πλείῳ δέπᾳ", "urn:cts:greekLit:tlg0012.tlg001.ogl01:4.262"

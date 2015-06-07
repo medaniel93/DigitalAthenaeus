@@ -21,7 +21,7 @@ A `.csv` list enumerating and identifying works reused by Athenaeus.
 
 - **EntityUrn** - a CITE URN uniquely identifying a re-used works.
 - **AuthorUrn** - a CITE URN uniquely identifying a re-used author; this must correspond to an author cataloged in `authors.csv` above.
-- **CtsUrn** - a CTS URN identifying a passage *in Athenaeus* where the work is mentioned. This passage serves to justify the work's inclusion in the list; when an works is reused often, the passage here should be a clear, unambiguous reference. *E.g.* "Eupolis says, in the *Dēmoi*…".
+- **CtsUrn** - a CTS URN identifying a passage *in Athenaeus* where the work is mentioned. This passage serves to justify the work's inclusion in the list; when a work is reused often, the passage here should be a clear, unambiguous reference. *E.g.* "Eupolis says, in the *Dēmoi*…".
 - **Label** - a human-readable name for the work. *E.g.* "*Dēmoi*"
 - **OptionalCtsWorkUrn** - for extant works, a work-level CTS URN identifying the work. *E.g.* `urn:cts:greekLit:tlg0012.tlg001:`.
 

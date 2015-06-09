@@ -26,7 +26,8 @@ Three columns of data:
 | ID | `urn:cite:digAth:reuse.ih1` |
 | Athenaeus Urn | `urn:cts:greekLit:tlg0008.tlg001.berti:1.5@πλεῖαί[1]-1.5@κλισίαι[1]` | 
 | TextContent | `πλεῖαί τοι οἴνου κλισίαι` | 
-| Homer Urn | `urn:cts:greekLit:tlg0012.tlg001.ogl01:9.71` |
+| New Edition Urn | `urn:cts:greekLit:tlg0012.tlg001.ogl01:9.71` |
+| Alignment URN | `urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9.71@πλεῖαί-9.71@κλισίαι` |
 
 ## Editorial Principles
 

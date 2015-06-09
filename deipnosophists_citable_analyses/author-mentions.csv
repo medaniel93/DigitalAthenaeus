@@ -13,3 +13,13 @@
 "urn:cite:digAth:mentions.auth12","urn:cite:digAth:authors.auth15","urn:cts:greekLit:tlg0008.tlg001.berti:1.2@φιλοσόφων[1]-1.2@ὑπερηκοντικότες[1]","φιλοσόφων Ποντιανὸς ὁ Νικομήδης","one of the deipnosophists"
 "urn:cite:digAth:mentions.auth13","urn:cite:digAth:authors.auth16","urn:cts:greekLit:tlg0008.tlg001.berti:1.2@φιλοσόφων[1]-1.2@ὑπερηκοντικότες[1]","φιλοσόφων Δημόκριτος ὁ Νικομήδης","one of the deipnosophists"
 "urn:cite:digAth:mentions.auth14","urn:cite:digAth:authors.auth17","urn:cts:greekLit:tlg0008.tlg001.berti:1.2@Φιλάδελφός[1]-1.2@ἐξητασμένος[1]","Φιλάδελφός τε ὁ Πτολεμαεύς","one of the deipnosophists"
+"urn:cite:digAth:mentions.auth15","urn:cite:digAth:authors.auth18","urn:cts:greekLit:tlg0008.tlg001.berti:1.2@τῶν[2]-1.2@Κύνουλκον[1]","τῶν κυνικῶν Κύνουλκος","one of the deipnosophists"
+"urn:cite:digAth:mentions.auth16","urn:cite:digAth:authors.auth19","urn:cts:greekLit:tlg0008.tlg001.berti:1.2@ῥητόρων[1]","ῥήτορες","referring to the group of orators attending the banquet"
+"urn:cite:digAth:mentions.auth17","urn:cite:digAth:authors.auth20","urn:cts:greekLit:tlg0008.tlg001.berti:1.2@τῶν[1]-1.2@κυνικῶν[1]","οἱ κυνικοί","referring to the group of orators attending the banquet"
+"urn:cite:digAth:mentions.auth18","urn:cite:digAth:authors.auth21","urn:cts:greekLit:tlg0008.tlg001.berti:1.2@Οὐλπιανὸς[1]-1.2@συός[1]","Οὐλπιανὸς ὁ Τύριος","one of the deipnosophists"
+"urn:cite:digAth:mentions.auth19","urn:cite:digAth:authors.auth22","urn:cts:greekLit:tlg0008.tlg001.berti:1.2@ἰατρῶν[1]-1.2@Νικαεύς[1]","ἰατρῶν Δάφνος Ἐφέσιος","one of the deipnosophists"
+"urn:cite:digAth:mentions.auth20","urn:cite:digAth:authors.auth23","urn:cts:greekLit:tlg0008.tlg001.berti:1.2@ἰατρῶν[1]-1.2@Νικαεύς[1]","Γαληνός ὁ Περγαμηνός","one of the deipnosophists"
+"urn:cite:digAth:mentions.auth21","urn:cite:digAth:authors.auth24","urn:cts:greekLit:tlg0008.tlg001.berti:1.2@ἰατρῶν[1]-1.2@Νικαεύς[1]","Ῥουφῖνός ὁ Νικαεύς","one of the deipnosophists"
+"urn:cite:digAth:mentions.auth22","urn:cite:digAth:authors.auth25","urn:cts:greekLit:tlg0008.tlg001.berti:1.2@μουσικὸς[1]-1.2@Ἀλεξανδρεύς[1]","μουσικὸς Ἀλκείδης ὁ Ἀλεξανδρεύς","one of the deipnosophists"
+
+
